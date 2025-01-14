@@ -9,7 +9,7 @@ This ePortfolio is a testament to that journey, showcasing the projects and expe
 
 In this ePortfolio, I’m excited to share with you the artifacts that not only highlight my technical abilities but also tell the story of my personal and professional development. I hope that through this ePortfolio, you'll gain insight into my journey, the lessons I've learned, and the passion that drives me to continue growing in this ever-evolving field of computer science.
 
-Let's begin with the artifact I want to showcase in this ePortfolio: my **'Inventory App'**.
+Let's begin with the first artifact I want to showcase in this ePortfolio: my Inventory App, which I have named **InvenTrack** to reflect its purpose of efficient inventory tracking and management.  
 
 **App Functionalities**
 
